@@ -10,4 +10,6 @@ Has a leaderboard for additional joy
 ## HOW TO PLAY
 # Select whether you want to play a 1-on-1 or a tournament
 in the first case launch Main, otherwise launch TournamentMain
+
+
 in the TournamentMain file you will find comments that will be of assistance to you to change to settings of the Tournament 
