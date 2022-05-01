@@ -12,4 +12,4 @@ Has a leaderboard for additional joy
 in the first case launch Main, otherwise launch TournamentMain
 
 
-in the TournamentMain file you will find comments that will be of assistance to you to change to settings of the Tournament 
+in the TournamentMain file you will find comments that will be of assistance to you in changing the settings of the Tournament 
